@@ -19,7 +19,7 @@
 A full-stack SaaS web app for traders to journal and analyze their trades.  
 Includes user authentication, premium plans with Cashfree integration, CSV export, and an admin dashboard. Built with Flask and Tailwind CSS.
 
-#### 📦 [Codebuddy - CS50 Final Project] (https://github.com/aqeel-sheikh/Codebuddy)
+#### 📦 [Codebuddy - CS50 Final Project](https://github.com/aqeel-sheikh/Codebuddy)
 A personal productivity tool built to help developers manage and organize their notes, code snippets, and documentation access—all in one place.
 The goal was to reduce context-switching and help coders stay focused while working on projects by bringing frequently used information and references into a single streamlined interface.
 
