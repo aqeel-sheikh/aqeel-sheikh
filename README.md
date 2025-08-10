@@ -1,61 +1,24 @@
-# 👋 Hey, I'm Aqeel Sheikh
+# 💫 About Me:
+Aspiring fullstack web developer focused on mastering JavaScript, backend development, and building responsive, scalable web applications.<br>
 
-**Aspiring Backend Developer** | **Self-Taught Programmer** | **SaaS Builder**
 
----
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aqeell_sheikh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithaqeell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sheikhakeel1102@gmail.com) 
 
-### 🛠️ Tech Stack & Skills
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aqeel-sheikh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aqeel-sheikh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aqeel-sheikh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- **Languages:** Python, JavaScript (learning), C (Basics)
-- **Frameworks:** Flask, SQLAlchemy, Tailwind CSS
-- **Database:** SQLite, PostgreSQL
-- **Tools:** Git & GitHub, Render, VS Code
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aqeel-sheikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-
-### 🚀 Projects I'm Proud Of
-
-#### 📈 [TradeLog](https://github.com/aqeel-sheikh/tradelog)
-A full-stack SaaS web app for traders to journal and analyze their trades.  
-Includes user authentication, premium plans with Cashfree integration, CSV export, and an admin dashboard. Built with Flask and Tailwind CSS.
-
-#### 📦 [Codebuddy - CS50 Final Project](https://github.com/aqeel-sheikh/Codebuddy)
-A personal productivity tool built to help developers manage and organize their notes, code snippets, and documentation access—all in one place.
-The goal was to reduce context-switching and help coders stay focused while working on projects by bringing frequently used information and references into a single streamlined interface.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aqeel-sheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🎯 What I’m Doing Now
-
-- Learning full-stack web development  
-- Documenting my dev journey daily  
-- Exploring freelancing and SaaS building  
-- Growing [@codewithaqeel](https://instagram.com/codewithaqeel) on Instagram
-
----
-
-### 🎮 About Me
-
-- I used to trade full-time — now I code tools for traders  
-- Passionate about clean code, minimal design, and real-world problems  
-- Anime enjoyer, film lover, deep thinker  
-- Currently on a peace and self-discovery journey 🧘
-
----
-
-### 🌐 Connect With Me
-
-- 📧 [sheikhakeelw01@gmail.com](mailto:sheikhakeelw01@gmail.com)  
-- 📸 [Instagram: @codewithaqeel](https://instagram.com/codewithaqeel)  
-- 🧠 GitHub: [aqeel-sheikh](https://github.com/aqeel-sheikh)
-
----
-
-### 💬 Quote I Live By
-
-> *"Code like no one’s watching. Build like it’s already live."*
-
----
-
-_Thanks for stopping by!_
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
