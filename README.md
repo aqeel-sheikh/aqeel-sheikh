@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring fullstack web developer focused on mastering JavaScript, backend development, and building responsive, scalable web applications.<br>
+Full-Stack Developer in the making | Frontend-focused, backend-curious <br>
 
 
 ## 🌐 Socials:
