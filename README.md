@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer in the making | Frontend-focused, backend-curious <br>
+Full-Stack Developer in the making | Frontend-polished, Backend-loading... <br>
 
 
 ## 🌐 Socials:
