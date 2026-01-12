@@ -1,6 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer in the making | Frontend-polished, Backend-loading... <br>
-
+Full-Stack Developer | From UI to API, I build without boundaries <br>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aqeell_sheikh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithaqeell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sheikhakeelw01@gmail.com) 
