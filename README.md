@@ -1,5 +1,5 @@
 ### About Me:
-Full-Stack Developer | From UI to API, I build without boundaries
+Building [![Faymas - The Creator Platform For AI Creators](https://faymas.in/logo.svg)](https://faymas.in)
 
 
 ### Socials:
