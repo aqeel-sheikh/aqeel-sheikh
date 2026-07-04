@@ -1,5 +1,5 @@
 ### About Me:
-Building [![Faymas - The Creator Platform For AI Creators](https://faymas.in/web-app-manifest-192x192.png)](https://faymas.in)
+Building [![Faymas - The Creator Platform For AI Creators]](https://faymas.in)
 
 
 ### Socials:
